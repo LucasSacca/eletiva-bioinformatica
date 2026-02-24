@@ -112,9 +112,11 @@ Based on the detected variants:
 
 Due to file size limitations, raw sequencing data is not hosted in this repository.
 
-🔗 Download FASTQ files here:
+🔗 Download files here:
 https://drive.google.com/file/d/18KCnpWgmfrKlwfSnldrta6pTmRQmKIJ3/view?usp=sharing
+
 https://drive.google.com/file/d/11fPvzmRhJJSjrG0XJKh1xH0T3F0defPz/view?usp=sharing
+
 https://drive.google.com/file/d/19BLK-_l_dAy7yA88H4durQSK_CNkA0iE/view?usp=sharing
 
 Format:
