@@ -205,13 +205,6 @@ This project is intended for **educational purposes only** and does not replace 
 
 ---
 
-## 👨‍🔬 Authors
-
-* Lucas
-* Julia
-
----
-
 ## 📚 References
 
 * OncoKB: https://www.oncokb.org
